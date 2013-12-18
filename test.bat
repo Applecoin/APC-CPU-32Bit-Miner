@@ -1,0 +1,1 @@
+minerd32 -a scrypt -o stratum+tcp://apcpool.dyndns.org:3333  -O workername:workerpassword
